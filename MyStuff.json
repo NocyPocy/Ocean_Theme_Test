@@ -2,8 +2,8 @@
   {
     "name": "Ocean Flows",
     "author": "NocyPocy",
-    "url": "C:\\Users\\nocyp\\Documents\\Android\\Blueprint-sample\\app\\src\\main\\assets\\wallpaper.png",
-    "thumbnail": "C:\\Users\\nocyp\\Documents\\Android\\Blueprint-sample\\app\\src\\main\\assets\\wallpaper low.png",
+    "url": "https://raw.githubusercontent.com/NocyPocy/Ocean_Theme_Test/main/Wallpaper.png",
+    "thumbnail": "https://raw.githubusercontent.com/NocyPocy/Ocean_Theme_Test/main/Wallpaper%20low.png",
     "collections": "Ocean",
     "downloadable": true,
     "size": 254954,
